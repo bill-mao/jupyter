@@ -1,0 +1,16 @@
+!.gitignore
+
+.ipynb_checkpoints
+
+
+# big file
+*.csv
+*.zip
+*.tmp  
+*.temp
+
+#Windows:
+Thumb.db
+ehthumbs.db
+Desktop.ini
+
